@@ -1,0 +1,10 @@
+/* スタイルはJｓ-In-CSSで基本的には記述します */
+/* 下記はCodeSnadbox側でデフォルト記述されている設定 */
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  /* background-color:#6AC0FF; */
+  /* opacity: 0.5; */
+  /* text-align: left; */
+  /* min-height: 100vh; */
+}
